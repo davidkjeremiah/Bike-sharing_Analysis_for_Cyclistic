@@ -1,0 +1,38 @@
+# Cost Savings
+
+## Hypothesis 1: Riders who take longer rides are more likely to purchase annual memberships
+t_statistic = 121.4122284120083
+p_value = 0.0
+There is a statistically significant difference in the mean ride duration between casual riders and annual members.
+
+
+# Convinence
+
+## Hypothesis 2: Casual riders are more likely to purchase annual memberships for convinence purposes if they use the service more frequently
+chi2_statistic = 0.0
+p_value = 1.0
+There is no statistically significant difference in the number of rides between casual riders and annual members.
+
+
+# Access to electric bikes
+
+## Hypothesis 3: Access to electric bikes
+chi2_statistic = 0.0
+p_value = 1.0
+There is no statistically significant difference in the proportion of electric bike rides between casual riders and annual members.
+
+
+# Flexibility
+
+## Hypothesis 4: Annual members have more flexibility in terms of bike usage
+chi2_statistic = 0.0
+p_value = 1.0
+There is no statistically significant difference in the distribution of bike types used by casual riders and annual members.
+
+
+# Ability to use the service for commuting
+
+## Hypothesis 5: Annual members use the bike-sharing service more for commuting purposes
+chi2_statistic = 623.8926837632672
+p_value = 0.002723182571560384
+There is a statistically significant difference in the distribution of start times between casual riders and annual members.
